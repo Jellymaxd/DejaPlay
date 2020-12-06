@@ -1,0 +1,2 @@
+model_checkpoint_path: "ogm.ckpt"
+all_model_checkpoint_paths: "ogm.ckpt"
